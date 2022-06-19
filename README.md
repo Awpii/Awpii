@@ -9,7 +9,7 @@
   
 <p align="left">
   <a href="https://github.com/Awpii"><img width="400" src="https://github-readme-stats.vercel.app/api?username=Awpii&show_icons=true&theme=radical">
-  <a href="https://github.com/Awpii"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awpii&hide=html,scss,css,shell&langs_count=10&layout=compact&theme=radical">
+  <a href="https://github.com/Awpii"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awpii&hide=scss,css,shell&langs_count=10&layout=compact&theme=radical">
   <a href="https://github.com/Awpii"><img width="800" src="https://github-profile-trophy.vercel.app/?username=Awpii&row=1&column=5&theme=radical">
 </p>
 
