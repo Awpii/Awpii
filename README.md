@@ -16,7 +16,7 @@
 ## My repos:
 
 <p align="left">
-  <a href="https://github.com/Awpii/profile"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Awpii&repo=profile&langs_count=5&theme=radical">
+  <a href="https://github.com/Awpii/Alarm-Check-Mod-Fix-"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Awpii&repo=Alarm-Check-Mod-Fix-&langs_count=5&theme=radical">
   <a href="https://github.com/Awpii/pythontest"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Awpii&card_height=300&&repo=pythontest&langs_count=5&layout=compact&theme=radical">
 </p>
     
